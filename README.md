@@ -1,2 +1,2 @@
 # Ajudem-me
-eu fiz exatamente o que o professor fez, mudei somente as frases e está mostrando errado, alguém pode me falar onde eu errei?
+Aqui eu vou colocar alguns projetos que acho que podem ser melhorados, se puderem me ajudem me mandando conselhos e críticas construtivas!
